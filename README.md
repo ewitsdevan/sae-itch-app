@@ -1,7 +1,7 @@
 # sae-itch-app
 An installation guide for getting the itch desktop app on SAE Windows computers
 
-This is for version 1.26.0, updates may break the easy process.
+This is for version 1.26.0, updates may break the automatic process.
 In the case it doesn't work, follow the "Manual Install" guide.
 
 Auto Install:
